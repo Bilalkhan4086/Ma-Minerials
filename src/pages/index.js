@@ -23,7 +23,7 @@ const IndexPage = () => (
         <b>Comming Soon!</b>
       </h2>
       <h3>
-        Currently our website is under<b>Development Mode</b>
+        Currently our website is under<b>Development Phase</b>
       </h3>
       </div>
   </Layout>
